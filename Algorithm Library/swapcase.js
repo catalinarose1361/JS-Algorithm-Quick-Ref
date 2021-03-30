@@ -20,4 +20,4 @@ var swapCase = function(str) {
 //The addition assignment operator ( += ) 
 //adds the value of the right operand to a 
 //variable and assigns the result to the variable
-//
+////
